@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Rectangle" transform="matrix(1.51381,0,0,2.80566,-205.523,-1083.39)">
+        <rect x="135.766" y="386.146" width="264.234" height="213.854" style="fill:rgb(94,105,151);"/>
+    </g>
+    <g transform="matrix(1.05556,0,0,1.33333,-11.1111,-6.66667)">
+        <rect x="20" y="20" width="360" height="60" style="fill:rgb(0,86,255);"/>
+    </g>
+    <g transform="matrix(2,0,0,0.892857,-20,62.1429)">
+        <rect x="20" y="20" width="20" height="560" style="fill:rgb(138,150,173);"/>
+    </g>
+    <g transform="matrix(2,0,0,0.821429,44,63.5714)">
+        <rect x="20" y="20" width="20" height="560" style="fill:rgb(138,150,173);"/>
+    </g>
+    <g transform="matrix(2,0,0,0.785714,108,64.2857)">
+        <rect x="20" y="20" width="20" height="560" style="fill:rgb(138,150,173);"/>
+    </g>
+    <g transform="matrix(2,0,0,0.75,172,65)">
+        <rect x="20" y="20" width="20" height="560" style="fill:rgb(138,150,173);"/>
+    </g>
+    <g transform="matrix(2,0,0,0.714286,236,65.7143)">
+        <rect x="20" y="20" width="20" height="560" style="fill:rgb(138,150,173);"/>
+    </g>
+    <g transform="matrix(2,0,0,0.678571,300,66.4286)">
+        <rect x="20" y="20" width="20" height="560" style="fill:rgb(138,150,173);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,25,30)">
+        <rect x="20" y="20" width="20" height="80" style="fill:rgb(104,142,217);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,89,30)">
+        <rect x="20" y="20" width="20" height="80" style="fill:rgb(104,142,217);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,153,30)">
+        <rect x="20" y="20" width="20" height="80" style="fill:rgb(104,142,217);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,217,30)">
+        <rect x="20" y="20" width="20" height="80" style="fill:rgb(104,142,217);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,281,30)">
+        <rect x="20" y="20" width="20" height="80" style="fill:rgb(104,142,217);"/>
+    </g>
+    <g transform="matrix(0.5,0,0,1,345,30)">
+        <rect x="20" y="20" width="20" height="80" style="fill:rgb(104,142,217);"/>
+    </g>
+</svg>

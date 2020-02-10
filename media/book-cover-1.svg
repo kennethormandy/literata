@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Rectangle" transform="matrix(1.51381,0,0,2.80566,-205.523,-1083.39)">
+        <rect x="135.766" y="386.146" width="264.234" height="213.854" style="fill:rgb(94,105,151);"/>
+    </g>
+    <g id="QuoteRight" transform="matrix(1.6976,0,0,1.6976,343.5,40)">
+        <path d="M-144,240L-104,273C-26,200 0,125 0,79C0,36 -28,0 -73,0C-120,0 -147,28 -147,61C-147,83 -135,95 -123,105C-112,114 -101,123 -101,137C-101,157 -106,181 -144,240Z" style="fill:rgb(0,86,255);fill-rule:nonzero;"/>
+    </g>
+    <g id="QuoteLeft" transform="matrix(-1.6976,0,0,1.6976,60,40)">
+        <path d="M-144,240L-104,273C-26,200 0,125 0,79C0,36 -28,0 -73,0C-120,0 -147,28 -147,61C-147,83 -135,95 -123,105C-112,114 -101,123 -101,137C-101,157 -106,181 -144,240Z" style="fill-rule:nonzero;"/>
+    </g>
+    <path id="Heart" d="M183.925,40C189.612,40 213.888,40 219.575,40C295.967,40 343.5,101.114 343.5,174.111C343.5,327.968 201.75,468.705 201.75,468.705C201.75,468.705 60,327.968 60,174.111C60,101.114 107.533,40 183.925,40ZM309.548,143.554C309.548,143.554 309.548,143.554 309.548,143.554Z" style="fill:rgb(196,61,61);"/>
+</svg>
